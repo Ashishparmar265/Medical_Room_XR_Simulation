@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voicesdk_unity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Oculus/Voice/Plugins/voicesdk_unity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

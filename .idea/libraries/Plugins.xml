@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Oculus/Voice/Lib/PlatformCompatibility/Plugins/voicesdk_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Oculus/Voice/Lib/PlatformCompatibility/Plugins/voicesdk_platform_logger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voicesdk_platform_dictation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Oculus/Voice/Features/Dictation/Plugins/voicesdk_platform_dictation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
